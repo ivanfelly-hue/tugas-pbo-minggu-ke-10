@@ -6,7 +6,6 @@ class User {
         echo "Login berhasil";
     }
 }
-
 class Admin extends User {
 
     // ERROR jika override
